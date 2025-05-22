@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojashivarkar&label=Profile%20views&color=0e75b6&style=flat" alt="poojashivarkar" /> </p>
 
-- 🌱 I’m currently learning **next js**
+- 🌱 I’m currently working on **next js, react native**
 
 - 💬 Ask me about **react, java, javascript, html, css, scss, sass, tailwind, node js**
 
